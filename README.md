@@ -53,5 +53,5 @@
 ---
 
 ## 📬 Contacto
-- **GitHub:** [@tu-usuario](https://github.com/fonosanta97-star/Cybersec-yerlin.git)
+- **GitHub:** [@tu-usuario](https://github.com/fonosanta97-star/.git)
 - **Ubicación:** Santo Domingo, RD
