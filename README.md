@@ -1,5 +1,5 @@
 # Cybersec-yerlin
-# 🛡️ Portfolio — [TU NOMBRE]
+# 🛡️ Portfolio — [yerlin]
 **Técnico en formación** • Ciberseguridad • Grupo 2026
 
 ---
@@ -16,7 +16,7 @@
 | S5 | Windows: Registry, Event Viewer | ⬜ | — | — |
 | S6 | Active Directory + Lab | ⬜ | — | — |
 | S7 | Python I: Scripts básicos | ⬜ | — | — |
-| S8 | Python II + Git + ISC2 CC | ✅ | — | — |
+| S8 | Python II + Git + ISC2 CC | ⬜ | — | — |
 
 **Progreso:** X/9 semanas completadas
 
