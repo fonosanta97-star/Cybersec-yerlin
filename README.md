@@ -8,7 +8,7 @@
 
 | # | Tema | Estado | Entregable | Fecha |
 |---|------|--------|------------|-------|
-| S0 | Setup y configuración | ✅ | — | DD/MM/YYYY |
+| S0 | Setup y configuración | ✅ | — | 14/06/2026 |
 | S1 | Redes I: TCP/IP, Subnetting | ⬜ | — | — |
 | S2 | Redes II: DNS, VPN, TLS | ⬜ | — | — |
 | S3 | Linux I: Filesystem, Permisos | ⬜ | — | — |
